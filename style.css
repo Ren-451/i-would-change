@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+  }
+  
+  
+  .grid {
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: beige;
+  }
+  
+  .grid div {
+    height: 20px;
+    width: 20px;
+  }
+  
+  .tetromino {
+    background-color: blue;
+  }
+  
+  
+  .mini-grid {
+    margin-left: 50px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(255, 0, 200);
+  }
+  
+  .mini-grid div {
+    height: 20px;
+    width: 20px;
+  }
+  /* i want to show you that you're special
+  tell you that i love you everyday 
+  but the only thing holding me back
+  is myself.
+
+  i want to change for you;
+  i dont care if i lose what i have
+  at least i'd have you back in my life.
+
+  but what's the point of saying i love you
+  to a person who i don't even know
+  if they still love me and would love me back?
+
+  but for you, i'd try. 
+
+  i won't mind rejection, at least you would know
+  that i loved you until the end. */
